@@ -24,10 +24,15 @@ __manual testing__
 
 ## Which TOOLS do I use?
 __Jira__
+
 __TestLink__
+
 __Postman__
+
 __Browser developer tools__
+
 __Trello__
+
 __Mind maps__
 
 ## How do I gain knowledge about testing?
