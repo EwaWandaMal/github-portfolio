@@ -37,9 +37,7 @@ __Mind maps__
 
 ## How do I gain knowledge about testing?
 __28.11.2022 - 09.01.2023 Akademia Testowania__ 
-
 *online course by testuj.pl*
-
 [Link to the certificate]
 
 ## How do I practice?
