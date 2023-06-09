@@ -42,13 +42,14 @@ __28.11.2022 - 09.01.2023 Akademia Testowania__
 [certificate AT link.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11708942/certificate.AT.link.pdf)
 
 
-__02.2023 Certificate ISTQB Certified Tester Foundation Level
+__02.2023 Certificate ISTQB Certified Tester Foundation Level__
 
 [certificate ISTGB FL link.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709062/certificate.ISTGB.FL.link.pdf)
 
 
 
 ## How do I practice?
-  * [Test cases](#test-cases)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmas and diagrams](#minmaps-and-diagrams)
+  * [bug4 Jira.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709765/bug4.Jira.pdf)
+  * [bug5 Jira.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709840/bug5.Jira.pdf)
+  * [TELECOM Project mindmap.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709756/TELECOM.Project.mindmap.pdf)
+  * 
