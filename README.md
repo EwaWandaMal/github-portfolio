@@ -23,7 +23,16 @@ __manual testing__
   * can perform manual functional and usability testing of web applications;
 
 ## Which TOOLS do I use?
+__Jira__
+__TestLink__
+__Postman__
+__Browser developer tools__
+__Trello__
+__Mind maps__
 
 ## How do I gain knowledge about testing?
+__Akademia Testowania__ 
+*online course by testuj.pl*
+[Link to the certificate]
 
 ## How do I practice?
