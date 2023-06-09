@@ -1,10 +1,5 @@
-# github-portfolio
-- [Who am I?](#who-am-i?)
-- [Which SKILLS am I improving?](#which-skills-am-i-improving?)
-- [Which TOOLS do I use?](#which-tools-do-I-use?)
-- [How do I gain knowledge about testing?](#how-do-i-gain-knowledge-about-testing?)
-- [How do I practice?](#how-do-i-practice?)
- 
+# github-portfolio 
+
 
 ## Who am I?
 I am a mathematic teacher by education. I have been working as a freight forwarder for more than ten years. Since I was assigned to participate in the beta testing of a freight management application, I have been digging through the Internet to explore the topic of testing.
