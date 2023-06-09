@@ -7,7 +7,7 @@
  
 
 ## Who am I?
-I am a mathematic teacher by education. I have been working as a freight forwarder for more than ten years. Since I was assigne to participate in the beta testing of a freight management application, I have been digging through the Internet to explore the topic of testing.
+I am a mathematic teacher by education. I have been working as a freight forwarder for more than ten years. Since I was assigned to participate in the beta testing of a freight management application, I have been digging through the Internet to explore the topic of testing.
 
 ## Which SKILLS am I improving?
 __SQL databases__
@@ -52,4 +52,4 @@ __02.2023 Certificate ISTQB Certified Tester Foundation Level__
   * [bug4 Jira.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709765/bug4.Jira.pdf)
   * [bug5 Jira.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709840/bug5.Jira.pdf)
   * [TELECOM Project mindmap.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709756/TELECOM.Project.mindmap.pdf)
-  * 
+  
