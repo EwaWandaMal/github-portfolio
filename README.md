@@ -38,8 +38,7 @@ __Mind maps__
 ## How do I gain knowledge about testing?
 __28.11.2022 - 09.01.2023 Akademia Testowania__ 
 *online course by testuj.pl*
-[Link to the certificate][malinowska.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11708075/malinowska.pdf)
-
+[link do cetyfikatu.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11708091/link.do.cetyfikatu.pdf)
 
 ## How do I practice?
 
