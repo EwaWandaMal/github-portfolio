@@ -4,9 +4,7 @@
 - [Which TOOLS do I use?](#which-tools-do-I-use?)
 - [How do I gain knowledge about testing?](#how-do-i-gain-knowledge-about-testing?)
 - [How do I practice?](#how-do-i-practice?)
-  * [Test cases](#test-cases)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmas and diagrams](#minmaps-and-diagrams)
+ 
 
 ## Who am I?
 I am a mathematic teacher by education. I have been working as a freight forwarder for more than ten years. Since I was assigne to participate in the beta testing of a freight management application, I have been digging through the Internet to explore the topic of testing.
@@ -39,8 +37,18 @@ __Mind maps__
 
 ## How do I gain knowledge about testing?
 __28.11.2022 - 09.01.2023 Akademia Testowania__ 
+
 *online course by testuj.pl*
-[link do cetyfikatu.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11708091/link.do.cetyfikatu.pdf)
+[certificate AT link.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11708942/certificate.AT.link.pdf)
+
+
+__02.2023 Certificate ISTQB Certified Tester Foundation Level
+
+[certificate ISTGB FL link.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709062/certificate.ISTGB.FL.link.pdf)
+
+
 
 ## How do I practice?
-
+  * [Test cases](#test-cases)
+  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
+  * [Mindmas and diagrams](#minmaps-and-diagrams)
