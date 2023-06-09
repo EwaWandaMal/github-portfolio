@@ -31,7 +31,7 @@ __Browser developer tools__
 
 __Trello__
 
-__Sreenpresso__
+__Screenpresso__
 
 __Mind maps__
 
