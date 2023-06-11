@@ -16,35 +16,27 @@ __manual testing__
   * can perform manual functional and usability testing of web applications;
 
 ## Which TOOLS do I use?
-__Jira__
-
-__TestLink__
-
-__Postman__
-
-__Browser developer tools__
-
-__Trello__
-
-__Screenpresso__
-
-__Mind maps__
+> _Jira_
+> _TestLink_
+> _Postman_
+> _Browser developer tools_
+> _Trello_
+> _Screenpresso_
+> _Mind maps_
 
 ## How do I gain knowledge about testing?
 __28.11.2022 - 09.01.2023 Akademia Testowania__ 
-
-*online course by testuj.pl*
-[certificate AT link.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11708942/certificate.AT.link.pdf)
+online course on testuj.pl [LINK to certificate AT](https://github.com/EwaWandaMal/github-portfolio/files/11708942/certificate.AT.link.pdf)
 
 
 __02.2023 Certificate ISTQB Certified Tester Foundation Level__
 
-[certificate ISTGB FL link.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709062/certificate.ISTGB.FL.link.pdf)
+[LINK to certificate ISTGB FL](https://github.com/EwaWandaMal/github-portfolio/files/11709062/certificate.ISTGB.FL.link.pdf)
 
 
 
 ## How do I practice?
-  * [bug4 Jira.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709765/bug4.Jira.pdf)
-  * [bug5 Jira.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709840/bug5.Jira.pdf)
-  * [TELECOM Project mindmap.pdf](https://github.com/EwaWandaMal/github-portfolio/files/11709756/TELECOM.Project.mindmap.pdf)
+  * [bug4 Jira](https://github.com/EwaWandaMal/github-portfolio/files/11709765/bug4.Jira.pdf)
+  * [bug5 Jira](https://github.com/EwaWandaMal/github-portfolio/files/11709840/bug5.Jira.pdf)
+  * [TELECOM Project mindmap](https://github.com/EwaWandaMal/github-portfolio/files/11709756/TELECOM.Project.mindmap.pdf)
   
