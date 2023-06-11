@@ -25,7 +25,7 @@ __manual testing__
 
 ## How do I gain knowledge about testing?
 __28.11.2022 - 09.01.2023 Akademia Testowania__ 
-online course on testuj.pl [LINK to certificate AT](https://github.com/EwaWandaMal/github-portfolio/files/11708942/certificate.AT.link.pdf)
+. online course on testuj.pl [LINK to certificate AT](https://github.com/EwaWandaMal/github-portfolio/files/11708942/certificate.AT.link.pdf)
 
 
 __02.2023 Certificate ISTQB Certified Tester Foundation Level__
