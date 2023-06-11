@@ -1,6 +1,6 @@
 # github-portfolio 
-[Who am I?](#who-am-i?/READ.md)
-[How do I practice?](#how-do-i-practice?/READ.md)
+[Who am I?](#who-am-i?/README.md)
+[How do I practice?](#how-do-i-practice?/README.md)
 ## Who am I?
 I am a mathematic teacher by education. I have been working as a freight forwarder for more than ten years. Since I was assigned to participate in the beta testing of a freight management application, I have been digging through the Internet to explore the topic of testing.
 
