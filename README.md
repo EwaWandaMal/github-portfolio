@@ -1,5 +1,5 @@
 # github-portfolio 
-
+[Who am I?](#who-am-i?/READ.md)
 
 ## Who am I?
 I am a mathematic teacher by education. I have been working as a freight forwarder for more than ten years. Since I was assigned to participate in the beta testing of a freight management application, I have been digging through the Internet to explore the topic of testing.
@@ -16,13 +16,13 @@ __manual testing__
   * can perform manual functional and usability testing of web applications;
 
 ## Which TOOLS do I use?
-> _Jira_
-> _TestLink_
-> _Postman_
-> _Browser developer tools_
-> _Trello_
-> _Screenpresso_
-> _Mind maps_
+ _Jira_
+ _TestLink_
+ _Postman_
+ _Browser developer tools_
+ _Trello_
+ _Screenpresso_
+ _Mind maps_
 
 ## How do I gain knowledge about testing?
 __28.11.2022 - 09.01.2023 Akademia Testowania__ 
